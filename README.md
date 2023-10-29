@@ -28,7 +28,7 @@
 
 I am a experienced Full Stack Web Developer with a strong track record of solution-focused work and an unwavering commitment to web development. My career objective is underscored by my self-motivation, team-building skills, and a consistent ability to deliver the best results in this ever-evolving field.
 
-My educational background includes Japanese-language proficiency at Level N3. I hold a BSc in Computer Science & Engineering from East West University, Dhaka. 
+My educational background includes Japanese-language proficiency at Level N3. I hold a BSc in Computer Science & Engineering from East West University, Dhaka.
 
 My expertise spans both front-end and back-end technologies, encompassing HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, Vue.js, C, C++, Golang, PHP, MySQL, PostgreSQL, and frameworks such as Laravel, Yii, and ASP.NET Core MVC. Additionally, I possess skills in Internet of Things (IoT).
 
@@ -49,9 +49,10 @@ In my spare time, I enjoy reading books and listening to music. My diverse skill
 ![Riajul Islam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riajul-Islam-Dev&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ## 👀 Where to find me
+
 [![Website](https://img.shields.io/badge/Website-riajul--islam--dev.github.io-2ea44f?style=flat-square&logo=github)](https://riajul-islam-dev.github.io/)
-[![Phone](https://img.shields.io/badge/📞_Phone-%2B8801722787007-00cc00?style=flat-square&amp;logo=phone)](tel:+8801722787007)
-[![E-mail](https://img.shields.io/badge/Email-riajul.islam.dev@gmail.com-00cc00?style=flat-square&amp;logo=gmail)](mailto:riajul.islam.dev@gmail.com)
+[![Phone](https://img.shields.io/badge/📞_Phone-%2B8801722787007-00cc00?style=flat-square&logo=phone)](tel:+8801722787007)
+[![E-mail](https://img.shields.io/badge/Email-riajul.islam.dev@gmail.com-00cc00?style=flat-square&logo=gmail)](mailto:riajul.islam.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-riajul--islam--dev-2867B2?style=flat-square&logo=linkedin&logoColor=00AFF0)](https://www.linkedin.com/in/riajul-islam-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-riajul--islam--dev-00cc00?style=flat-square&logo=github)](https://github.com/Riajul-Islam-Dev)
 [![Skype](https://img.shields.io/badge/Skype-riajul--islam--dev-00a2ed?style=flat-square&logo=skype)](https://join.skype.com/invite/y4awZfHii9yl)
